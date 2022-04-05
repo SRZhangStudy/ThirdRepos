@@ -1,0 +1,12 @@
+C:\Users\zhang\5TSD\ThirdRepos\MyInitial\obj\Debug\MyNameSpace.AboutBox1.resources
+C:\Users\zhang\5TSD\ThirdRepos\MyInitial\obj\Debug\MyNameSpace.JuiceBarForm.resources
+C:\Users\zhang\5TSD\ThirdRepos\MyInitial\obj\Debug\MyNameSpace.Properties.Resources.resources
+C:\Users\zhang\5TSD\ThirdRepos\MyInitial\obj\Debug\MyNameSpace.SummaryForm.resources
+C:\Users\zhang\5TSD\ThirdRepos\MyInitial\obj\Debug\Ticketing.TicketsForm.resources
+C:\Users\zhang\5TSD\ThirdRepos\MyInitial\obj\Debug\Sales.csproj.GenerateResource.cache
+C:\Users\zhang\5TSD\ThirdRepos\MyInitial\obj\Debug\Sales.csproj.CoreCompileInputs.cache
+C:\Users\zhang\5TSD\ThirdRepos\MyInitial\obj\Debug\MyNameSpace.exe
+C:\Users\zhang\5TSD\ThirdRepos\MyInitial\obj\Debug\MyNameSpace.pdb
+C:\Users\zhang\5TSD\ThirdRepos\MyInitial\bin\Debug\MyNameSpace.exe.config
+C:\Users\zhang\5TSD\ThirdRepos\MyInitial\bin\Debug\MyNameSpace.exe
+C:\Users\zhang\5TSD\ThirdRepos\MyInitial\bin\Debug\MyNameSpace.pdb
