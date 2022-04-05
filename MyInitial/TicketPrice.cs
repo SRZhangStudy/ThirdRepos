@@ -18,6 +18,7 @@ namespace Ticketing
         const decimal mdecBox = 62.0m;
         const decimal mdecDiscount = 5.0m; 
         const decimal backStall = 15.0m; 
+        const decimal childDiscount = 10m; 
 
         private int Section
         {
